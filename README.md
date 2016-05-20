@@ -2,10 +2,6 @@
 SQL Exercises
 
 
-
-
-# Fun with SQL Queries
-
 For this exercise, you will learn to install a SQL Server database using the restore method. Then, you will practice creating SQL statements using the query editor of the SQL Client, and complete a set of exercises covering basic SQL query syntax.
 
 ## Setup
